@@ -1,0 +1,19 @@
+{
+  "name": "robcsaszar-socratic",
+  "version": "0.5.0",
+  "description": "Interrogates recently shipped work with seven socratic questions, forcing evidence-backed answers about confidence, blind spots, decay, and unstated assumptions.",
+  "author": {
+    "name": "Rob Csaszar",
+    "url": "https://nhg.design"
+  },
+  "repository": "https://github.com/robcsaszar/socratic",
+  "license": "MIT",
+  "keywords": [
+    "retrospective",
+    "code-review",
+    "post-release",
+    "self-review",
+    "quality",
+    "claude-code"
+  ]
+}
