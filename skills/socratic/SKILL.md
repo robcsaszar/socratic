@@ -1,6 +1,6 @@
 ---
 name: socratic
-description: "Use after a feature merges or ships, to interrogate recently shipped work for confidence, blind spots, decay, unstated assumptions, and what should exist next. Takes an argument naming the target — a feature, a change set (PR, branch, commit range), or the whole repository. Trigger phrases — socratic, question this feature, feature retrospective, post-release review, what actually shipped. Don't use for pre-build plan stress-tests (grill skill) or line-level diffs (code-review)."
+description: "Use after a feature merges or ships, to put seven questions to recently shipped work — confidence, blind spots, decay, unstated assumptions, and what should exist next. Takes an argument naming the target — a feature, a change set (PR, branch, commit range), or the whole repository. Trigger phrases — socratic, question this feature, feature retrospective, post-release review, what actually shipped. Don't use for pre-build plan stress-tests (grill skill) or line-level diffs (code-review)."
 ---
 
 # Socratic
