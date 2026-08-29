@@ -9,7 +9,7 @@
       "name": "robcsaszar-socratic",
       "source": "./",
       "description": "Interrogates recently shipped work with seven socratic questions, forcing evidence-backed answers about confidence, blind spots, decay, and unstated assumptions.",
-      "version": "0.5.0"
+      "version": "0.7.0"
     }
   ]
 }
