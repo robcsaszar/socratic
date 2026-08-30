@@ -1,6 +1,7 @@
 # Eval run — 2026-08-29 (socratic 0.7.0)
 
-Baseline arm is the pre-0.7.0 SKILL.md snapshot, not a no-skill run.
+Baseline arm is the pre-0.7.0 SKILL.md (reconstructed from git history — the
+commit immediately before the 0.7.0 changes), not a no-skill run.
 
 | Case | With-skill (0.7.0) | Baseline (pre-0.7.0) | Discrimination |
 |------|--------------------|-----------------------|----------------|

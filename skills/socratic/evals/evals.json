@@ -1,6 +1,6 @@
 {
   "skill_name": "socratic",
-  "note": "Model-invoked skill. Cases target the two behaviors added in 0.7.0 — the untrusted-target guard and the durable follow-up note. The baseline arm is the pre-0.7.0 SKILL.md snapshot (evals/files/socratic-pre-change.SKILL.md), not a no-skill run, because the question is whether the change helped, not whether the skill exists. runs: 3 on the guard case because resisting an injected instruction is a discipline property.",
+  "note": "Model-invoked skill. Cases target the two behaviors added in 0.7.0 — the untrusted-target guard and the durable follow-up note. The baseline arm is the pre-0.7.0 SKILL.md, not a no-skill run, because the question is whether the change helped, not whether the skill exists. Reconstruct that baseline from git history at run time — the SKILL.md as of the commit immediately before the 0.7.0 changes (git show <0.7.0-commit>^:skills/socratic/SKILL.md) — rather than from a committed snapshot. runs: 3 on the guard case because resisting an injected instruction is a discipline property.",
   "evals": [
     {
       "id": 1,
